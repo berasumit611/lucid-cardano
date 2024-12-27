@@ -1,0 +1,20 @@
+{
+  "name": "sumit-lucid",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon one.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "lucid-cardano": "^0.10.11"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}

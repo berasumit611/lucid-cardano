@@ -1,0 +1,7 @@
+addr_test1vzg7m5d2vrqstfn370u2er6z5napmuy73dt3727dn3hww7czzdnxu
+
+Generated Private Key (Bech32): ed25519_sk1wwm0dtvkq87gg9a2lldzrukyn6a5lemekdtc78em8g8xnwxsthrsesn3na
+
+Seed phrase: tone side reject sport priority rug bachelor prefer blanket table blush supreme finish blame play rib chimney friend such keep gentle man approve ritual
+
+api: preprodWdI9Gr3pZZF9ZPTZmEkl07LFCbKwLlKX
